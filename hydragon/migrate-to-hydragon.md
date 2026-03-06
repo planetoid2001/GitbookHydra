@@ -11,8 +11,8 @@
       3. Click on Load unpacked and select the 0.0.10\_0 Folder from the unzipped downloaded folder
 2. Follow the setup process to **import an existing wallet** using your **private key.**\
    \
-   ![](https://2559938628-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-MLNXvXNFPLXIrp6TqdS%2Fuploads%2FRXTVNayHqzIOOemMdFWJ%2Fextnimportwallet.PNG?alt=media\&token=7c33409b-6b1f-42fa-a272-d6b7e19a04f8) ![](https://2559938628-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-MLNXvXNFPLXIrp6TqdS%2Fuploads%2F9mVocQb6MJjmc4lHf5Cv%2Fextnimport2.PNG?alt=media\&token=331ba55c-5a4c-494f-a758-eedb0fe3bac3)
-   1. You can obtain the private key for your address from the Hydra Mobile app. Swipe the address to the right, to reveal the private key (click the eye to authenticate and display)![](https://2559938628-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-MLNXvXNFPLXIrp6TqdS%2Fuploads%2FAk0u4hYTUIyfqJFwG8jF%2Fimage.png?alt=media\&token=7b2460d4-f1b3-429f-b48f-b4a56939b862)
+   ![](images/2Migrate/1import%20an%20existing%20wallet.png) ![](images/2Migrate/2privatekey.png)
+   1. You can obtain the private key for your address from the Hydra Mobile app. Swipe the address to the right, to reveal the private key (click the eye to authenticate and display)![](images/2Migrate/3viewpkey.png)
    2. If you are using the legacy Desktop Client, then [export your private key](https://docs.hydrachain.org/staking-hydra-coins/setting-up-staking#step-4.-exporting-your-private-key) from the console or CLI.
 3. Install MetaMask from <https://metamask.io/download/> and follow the steps to create a wallet, if you do not have one already. If you already use and control an EVM (Ethereum) address, then you can use the same address.
    1. On MetaMask, you will need to "Add a custom network". The Hydra Chain Network Information is available on Chainlist <https://chainlist.org/chain/4488> and can be added from there in one click
@@ -24,7 +24,7 @@
       * Currency Symbol: HYDRA&#x20;
       * Block explorer URL: <https://skynet.hydrachain.org>
 
-      &#x20;  ![](https://2559938628-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-MLNXvXNFPLXIrp6TqdS%2Fuploads%2FZNuuKak9zBSwFjrgFfkp%2FMM_AddChain.PNG?alt=media\&token=3778126a-6ccb-46fe-bbf5-2cc03ae00fbe)      ![](https://2559938628-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-MLNXvXNFPLXIrp6TqdS%2Fuploads%2FcCTy0QkrgzlzQRJWQP4x%2Fnetworkinfo.PNG?alt=media\&token=a234f3cc-66e5-4684-b188-5f0af1010965)
+      &#x20;  ![](images/2Migrate/4selecthydra.png)      ![](images/2Migrate/5selectnetwork.png)
 
 #### **Step 2: Connect to the MultiBridge**
 
