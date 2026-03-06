@@ -11,8 +11,8 @@
       3. Click on Load unpacked and select the 0.0.10\_0 Folder from the unzipped downloaded folder
 2. Follow the setup process to **import an existing wallet** using your **private key.**\
    \
-   ![](main/images/2Migrate/1import%20an%20existing%20wallet.png) ![](main/images/2Migrate/2privatekey.png)
-   1. You can obtain the private key for your address from the Hydra Mobile app. Swipe the address to the right, to reveal the private key (click the eye to authenticate and display)![](main/images/2Migrate/3viewpkey.png)
+   ![](https://github.com/planetoid2001/GitbookHydra/blob/main/images/2Migrate/1import%20an%20existing%20wallet.png) ![](https://github.com/planetoid2001/GitbookHydra/blob/main/images/2Migrate/2privatekey.png)
+   1. You can obtain the private key for your address from the Hydra Mobile app. Swipe the address to the right, to reveal the private key (click the eye to authenticate and display)![](https://github.com/planetoid2001/GitbookHydra/blob/main/images/2Migrate/3viewpkey.png)
    2. If you are using the legacy Desktop Client, then [export your private key](https://docs.hydrachain.org/staking-hydra-coins/setting-up-staking#step-4.-exporting-your-private-key) from the console or CLI.
 3. Install MetaMask from <https://metamask.io/download/> and follow the steps to create a wallet, if you do not have one already. If you already use and control an EVM (Ethereum) address, then you can use the same address.
    1. On MetaMask, you will need to "Add a custom network". The Hydra Chain Network Information is available on Chainlist <https://chainlist.org/chain/4488> and can be added from there in one click
@@ -24,7 +24,7 @@
       * Currency Symbol: HYDRA&#x20;
       * Block explorer URL: <https://skynet.hydrachain.org>
 
-      &#x20;  ![](main/images/2Migrate/4selecthydra.png)      ![](main/images/2Migrate/5selectnetwork.png)
+      &#x20;  ![](https://github.com/planetoid2001/GitbookHydra/blob/main/images/2Migrate/4selecthydra.png)      ![](https://github.com/planetoid2001/GitbookHydra/blob/main/images/2Migrate/5selectnetwork.png)
 
 #### **Step 2: Connect to the MultiBridge**
 
