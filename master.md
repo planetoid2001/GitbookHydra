@@ -6,7 +6,7 @@
 
 {% endhint %}
 
-![Welcome to Hydra Chain](https://2559938628-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-MLNXvXNFPLXIrp6TqdS%2Fuploads%2Fj55JUl5LYe19mO1hrM5s%2FNEXT_GENERATION_BLOCKCHAIN_DESIGNED_TO_BE_SELF_SUFFICIENT_%26_MARKET%20\(3\).png?alt=media\&token=4b70cd4e-a62a-4a44-a1dd-d7ab2a617154)
+![Welcome to Hydra Chain](images/1Intro/Hero.png)
 
 Hydra Chain is a High-Performance & Permissionless EVM Layer 1 Blockchain Network that offers Instant Finality, sub-second block times, adaptive inflation and a groundbreaking decentralization mechanism with an account-level horizontal scalability system that doesn't compromise on security.
 
